@@ -59,13 +59,8 @@ Feel free to reach out to me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/vasanthakumar-g-358495220/)
 - [Email](mailto:vasanthakumarg1212@gmail.com)
-- ## 📞 Contact Me
-
-You can reach me at my phone number:  
-[+1 (555) 123-4567](tel:+15551234567)
-
-Or email me at: [your.email@example.com](mailto:your.email@example.com)
-
+- - 📞 Phone: [+91 (6369558784)](tel:+916369558784)
+- 
 
 ---
 
