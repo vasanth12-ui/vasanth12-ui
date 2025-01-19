@@ -58,8 +58,8 @@ A brief description of the project, technology stack used, and its purpose.
 Feel free to reach out to me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/vasanthakumar-g-358495220/)
-- [Personal Website](https://yourwebsite.com)
 - [Email](mailto:vasanthakumarg1212@gmail.com)
+- [Phone]_(+91 6369558784)
 
 ---
 
