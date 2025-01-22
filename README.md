@@ -11,7 +11,7 @@ I am an experienced SDET with a focus on improving software quality through auto
 ### 🔧 Technologies I Work With:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+//![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
@@ -23,7 +23,7 @@ I am an experienced SDET with a focus on improving software quality through auto
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
-- **Programming Languages**: Java, Python, JavaScript
+- **Programming Languages**: Java, JavaScript  //python
 - **Test Automation**: Selenium, Cypress, Appium, JUnit, TestNG
 - **CI/CD**: Jenkins, GitLab CI, CircleCI, GitHub Actions
 - **API Testing**: Postman, RestAssured, SoapUI
@@ -75,7 +75,7 @@ Feel free to reach out to me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/vasanthakumar-g-358495220/)
 - [Email](mailto:vasanthakumarg1212@gmail.com)
-- - 📞 Phone: [+91 (6369558784)](tel:+916369558784)
+- - [Phone](tel:+1234567890)
 - 
 
 ---
