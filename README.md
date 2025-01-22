@@ -15,7 +15,6 @@ I am an experienced SDET with a focus on improving software quality through auto
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -23,9 +22,9 @@ I am an experienced SDET with a focus on improving software quality through auto
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
-- **Programming Languages**: Java, JavaScript  //python
+- **Programming Languages**: Java, JavaScript  
 - **Test Automation**: Selenium, Cypress, Appium, JUnit, TestNG
-- **CI/CD**: Jenkins, GitLab CI, CircleCI, GitHub Actions
+- **CI/CD**: GitLab CI, CircleCI, GitHub Actions
 - **API Testing**: Postman, RestAssured, SoapUI
 - **Performance Testing**: JMeter, LoadRunner
 - **Version Control**: Git, GitHub
