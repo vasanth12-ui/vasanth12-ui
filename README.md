@@ -19,8 +19,8 @@ I am an experienced SDET with a focus on improving software quality through auto
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Word Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Microsoft_Word_Logo_2013.svg/1024px-Microsoft_Word_Logo_2013.svg.png)
 ![MS Word](https://img.shields.io/badge/Microsoft%20Word-0078D4?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
 - **Programming Languages**: Java, Python, JavaScript
