@@ -19,8 +19,8 @@ I am an experienced SDET with a focus on improving software quality through auto
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Word Logo](https://path-to-word-logo)
-![Excel Logo](https://path-to-excel-logo)
+![Word Logo](https://example.com/word-logo.png)
+![Excel Logo](https://example.com/excel-logo.png)
 
 - **Programming Languages**: Java, Python, JavaScript
 - **Test Automation**: Selenium, Cypress, Appium, JUnit, TestNG
