@@ -1,4 +1,4 @@
-# 👩‍💻 Welcome to My GitHub Profile!
+# 👩‍💻 Am vasanthakumar G!
 
 I'm a passionate **Software Development Engineer in Test (SDET)** focused on test automation, quality assurance, and continuous integration. I love building scalable and efficient test frameworks to ensure high-quality software delivery.
 
@@ -35,14 +35,27 @@ I am an experienced SDET with a focus on improving software quality through auto
 
 Here are some of the projects I’ve worked on:
 
-### [Awesome Project 1](https://github.com/vasanth12-ui/awesome-project-1)
-A brief description of the project, technology stack used, and its purpose.
-
+### [Quality_Sentinels](https://github.com/vasanth12-ui/Quality_Sentinels)
+In this project, I automated the end-to-end testing of the
+"Add Points" functionality on a user account page. The
+goal was to ensure the functionality works as expected
+in various scenarios, including successful point
+addition, handling invalid input, and verifying UI
+updates.
+Login Automation: Successfully automated login process,
+ensuring correct redirection to the user dashboard.
+Error Handling: Automated test cases ensured that invalid input
+(negative points) was handled with appropriate error messages.
+UI Consistency: Ensured that the points balance was visually
+updated after each addition.
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ### [Awesome Project 2](https://github.com/vasanth12-ui/awesome-project-2)
 A brief description of the project, technology stack used, and its purpose.
 
-### [Awesome Project 3](https://github.com/vasanth12-ui/awesome-project-3)
-A brief description of the project, technology stack used, and its purpose.
+//### [Awesome Project 3](https://github.com/vasanth12-ui/awesome-project-3)
+//A brief description of the project, technology stack used, and its purpose.
 
 ---
 
