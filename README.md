@@ -26,7 +26,6 @@ I am an experienced SDET with a focus on improving software quality through auto
 - **API Testing**: Postman, RestAssured, SoapUI
 - **Performance Testing**: JMeter, LoadRunner
 - **Version Control**: Git, GitHub
-- **Cloud Testing**: AWS, Azure
 - **Test Management**: JIRA, TestRail
 
 ---
