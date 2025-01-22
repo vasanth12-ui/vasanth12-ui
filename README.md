@@ -66,8 +66,6 @@ Worked closely with developers to ensure timely
 resolution of reported bugs and issues.
   ![MS Word](https://img.shields.io/badge/Microsoft%20Word-0078D4?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-//### [Awesome Project 3](https://github.com/vasanth12-ui/awesome-project-3)
-//A brief description of the project, technology stack used, and its purpose.
 
 ---
 
