@@ -1,4 +1,4 @@
-# 👩‍💻 Am vasanthakumar G!
+# 🧑‍💻 Hello Am vasanthakumar G!
 
 I'm a passionate **Software Development Engineer in Test (SDET)** focused on test automation, quality assurance, and continuous integration. I love building scalable and efficient test frameworks to ensure high-quality software delivery.
 
