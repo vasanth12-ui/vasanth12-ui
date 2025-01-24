@@ -34,7 +34,7 @@ I am an experienced SDET with a focus on improving software quality through auto
 
 Here are some of the projects I’ve worked on:
 
-### [Quality_Sentinels](https://github.com/vasanth12-ui/Quality_Sentinels)
+### [Quality_Sentinels](https://github.com/vasanth12-ui/Quality_Sentinels12)
 In this project, I automated the end-to-end testing of the
 "Add Points" functionality on a user account page. The
 goal was to ensure the functionality works as expected
